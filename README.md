@@ -8,7 +8,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 使用方法：根据目录关键字搜索，记得包含@，以保证搜索目录关键字的唯一性。
 
-引入评价机制：根据作者们的主管评价，对库是用"赞"、“很赞”、“非常赞”这3个评价伺候，便于大家在初次选择库时有一个选择依据。
+引入评价机制：根据作者们的主观评价，对库使用"赞"、“很赞”、“非常赞”这3个评价词，便于大家在初次选择库时有一个选择依据。
 
 问题反馈：请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并pull request。目录问题大家提出issues后楼主会及时更改的。
 
@@ -115,7 +115,7 @@ github排名 [https://github.com/trending](https://github.com/trending),github�
 
 #### 完整App@
 * [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)用 React Native 完成的 HackerNews 客户端。
-* [WeChat](https://github.com/zhengwenming/WeChat) 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时候FPS在57-60之间，纵享丝滑！
+* [WeChat](https://github.com/zhengwenming/WeChat) 实现类似微信朋友圈或者QQ空间，评论回复，九宫格布局。处理键盘弹出后定位到当前点击的被评论人处。另：滑动时FPS在57-60之间，纵享丝滑！
 * [iOSAppTemplate](https://github.com/tbl00c/iOSAppTemplate)高仿微信，iOS应用开发模板，个人总结。
 * [Bilibili_Wuxianda](https://github.com/MichaelHuyp/Bilibili_Wuxianda)赞 高仿Bilibili客户端
 * [Coding-iOS](https://github.com/Coding/Coding-iOS) - Coding iOS 客户端源代码
